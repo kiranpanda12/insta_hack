@@ -15,7 +15,7 @@ Check valid usernames
 Default password list (best +39k 8 letters)
 Check and Install all dependencies
 Usage:
-git clone https://github.com/thelinuxchoice/instashell
+git clone https://github.com/kiranpanda12/insta_hack
 cd instashell
 chmod +x instashell.sh
 service tor start
