@@ -9,7 +9,7 @@ many accounts without any user interaction, including high-profile ones.
 Facebook fixed both issues and awarded a combined bounty of $5.000.
 Download&install
 apt-get install tor
-git clone https://github.com/Ha3MrX/InstaBrute
+git clone https://github.com/kiranpanda12/insta_hack
 cd InstaBrute
 chmod +x insta.sh
 ./insta.sh
